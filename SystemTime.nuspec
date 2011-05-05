@@ -5,6 +5,8 @@
     <version>1.0</version>
     <authors>Andy Sherwood</authors>
     <owners>Andy Sherwood</owners>
+    <projectUrl>https://github.com/xinmyname/SystemTime/</projectUrl>
+    <licenseUrl>https://github.com/xinmyname/SystemTime/blob/master/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>This source-only package provides an abstraction for System.DateTime that is mockable</description>
     <tags>Date,Time,TDD</tags>
